@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/SonataCoreBundle",
+    "name": "awaresoft/sonata-core-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataCoreBundle",
     "require": {
